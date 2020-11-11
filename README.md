@@ -17,3 +17,6 @@ EE40170-cryptocurrency-network
 - [x] Able to change difficulty when the hash power of the network change
 - [x] Develop an App on any mobile platform to perform mobile payment using the cryptocurrency network
 - [x] Show pending transactions
+
+## Server
+https://github.com/howk829/EE4017-cryptocurrency-network-server
